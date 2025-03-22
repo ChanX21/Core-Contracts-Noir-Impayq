@@ -35,7 +35,7 @@ import {
   type U128Like,
   type WrappedFieldLike,
 } from '@aztec/aztec.js';
-import BundlerContractArtifactJson from '../../../target/bundler-Bundler.json' with { type: 'json' };
+import BundlerContractArtifactJson from './bundler-Bundler.json' with { type: 'json' };
 export const BundlerContractArtifact = loadContractArtifact(BundlerContractArtifactJson as NoirCompiledContract);
 
 

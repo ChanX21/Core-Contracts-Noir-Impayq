@@ -34,7 +34,7 @@ import {
   type U128Like,
   type WrappedFieldLike,
 } from "@aztec/aztec.js";
-import MerchantsContractArtifactJson from "../../../target/bundler-Merchants.json" with { type: "json" };
+import MerchantsContractArtifactJson from "./bundler-Merchants.json" with { type: "json" };
 export const MerchantsContractArtifact = loadContractArtifact(
   MerchantsContractArtifactJson as NoirCompiledContract
 );

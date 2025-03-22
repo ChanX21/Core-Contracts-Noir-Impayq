@@ -19,5 +19,5 @@
     "skipLibCheck": true
   },
   "references": [],
-  "include": ["src", "src/*.json"]
+  "include": ["src", "src/*.json", "src/**/*.ts", "src/artifacts/*.json"]
 }
