@@ -1,0 +1,6 @@
+[package]
+name = "corecontracts"
+type = "bin"
+authors = [""]
+
+[dependencies]
