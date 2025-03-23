@@ -4,6 +4,9 @@ This repository contains privacy-enabled smart contracts written in Noir for the
 
 ## Overview
 
+![image](https://github.com/user-attachments/assets/2ced0065-4176-478b-b5cb-3d4d209be598)
+
+
 ImpayQ is a privacy-focused payment system built on Aztec Network that allows:
 - Merchant management and token assignment
 - Bundled token transfers (both public and private)
