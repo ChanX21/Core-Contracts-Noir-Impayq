@@ -1,0 +1,10 @@
+{
+  "bundler-Merchants.json": {
+    "contractName": "Merchants",
+    "hash": "0f733740ef95e9246b02359354c7806db5aac9fbb974b99a487296bf043eda62"
+  },
+  "bundler-Bundler.json": {
+    "contractName": "Bundler",
+    "hash": "cc5861e120733f01ff0fa000eb1913966efb38f9ba1fa7586662211c1882117e"
+  }
+}
